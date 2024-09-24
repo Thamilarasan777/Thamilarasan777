@@ -1,5 +1,5 @@
 - 👋 I’m Thamilarasan
-- 👀 I’m working as Machine Learning Engineer
+- 👀 I’m working as Data Sceince Analyst
 
 <!---
 Thamilarasan777/Thamilarasan777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
