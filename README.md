@@ -1,5 +1,5 @@
 - 👋 I’m Thamilarasan
-- 👀 I’m working as Sr.Data Sceince Analyst
+- 👀 Sr.Data Sceince Analyst
 
 <!---
 Thamilarasan777/Thamilarasan777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
