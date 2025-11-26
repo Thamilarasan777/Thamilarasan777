@@ -1,7 +1,9 @@
-- 👋 I’m Thamilarasan
-- 👀 Sr.Data Sceince Analyst
+👋 Hi, I’m Thamilarasan
 
-<!---
-Thamilarasan777/Thamilarasan777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Software Developer who still thinks in Data Science mode
+
+🤖 Crafting Machine Learning, GenAI, and Agentic AI magic
+
+🧠 Turning complex data into clean code (and occasional miracles)
+
+🚀 Agentic AI enthusiast—teaching machines to think so I don’t have to
